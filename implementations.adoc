@@ -108,6 +108,10 @@
 | OGC / W3C MapML - Extension of HTML for Maps
 |
 
+| https://grass.osgeo.org[GRASS GIS] using the r.in.ogc and v.in.ogc addons
+| OGC API - Features/Coverages
+|
+
 | TBA
 | TBA
 | TBA
